@@ -1,0 +1,42 @@
+﻿<Window x:Class="TESTUS1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TESTUS1"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="1" Height="70" Width="150" HorizontalAlignment="Center" VerticalAlignment="Top"
+                 HorizontalContentAlignment="Center" VerticalContentAlignment="Center" AcceptsReturn="True"
+                 SpellCheck.IsEnabled="True" Language="Ru"></TextBox>
+        <ListBox Grid.Row="1" Height="200" Width="150" HorizontalContentAlignment="Center">
+            <TextBlock Text="Гоша Гантеля"></TextBlock>
+            <TextBlock Text="Андрей Т-Банк"></TextBlock>
+            <TextBlock Text="Светлана Газпром"></TextBlock>
+            <TextBlock Text="Евгений Снеговик"></TextBlock>
+            <TextBlock Text="Павел Колабаса"></TextBlock>
+            <TextBlock Text="Михаил Полено"></TextBlock>
+            <TextBlock Text="Никита Джигурда"></TextBlock>
+            <TextBlock Text="Вадим Рот в Рот"></TextBlock>
+            <TextBlock Text="Родион Хот-Дог"></TextBlock>
+            <TextBlock Text="Геннадий СВО"></TextBlock>
+            <TextBlock Text="Джордж Пунш"></TextBlock>
+            <TextBlock Text="Абеме Пиндосов"></TextBlock>
+            <TextBlock Text="Черный! Стреляй!"></TextBlock>
+            <TextBlock Text="Витя с Котлетой"></TextBlock>
+            <TextBlock Text="Дон Мефедрон"></TextBlock>
+            <TextBlock Text="Ольга Крабовые-чипсы"></TextBlock>
+
+
+
+
+
+
+        </ListBox>
+    </Grid>
+</Window>

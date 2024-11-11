@@ -1,0 +1,17 @@
+S:\TESTUS1\TESTUS1\bin\Debug\TESTUS1.exe.config
+S:\TESTUS1\TESTUS1\bin\Debug\TESTUS1.exe
+S:\TESTUS1\TESTUS1\bin\Debug\TESTUS1.pdb
+S:\TESTUS1\TESTUS1\obj\Debug\TESTUS1.csproj.AssemblyReference.cache
+S:\TESTUS1\TESTUS1\obj\Debug\MainWindow.g.cs
+S:\TESTUS1\TESTUS1\obj\Debug\Window1.g.cs
+S:\TESTUS1\TESTUS1\obj\Debug\App.g.cs
+S:\TESTUS1\TESTUS1\obj\Debug\TESTUS1_MarkupCompile.cache
+S:\TESTUS1\TESTUS1\obj\Debug\TESTUS1_MarkupCompile.lref
+S:\TESTUS1\TESTUS1\obj\Debug\MainWindow.baml
+S:\TESTUS1\TESTUS1\obj\Debug\Window1.baml
+S:\TESTUS1\TESTUS1\obj\Debug\TESTUS1.g.resources
+S:\TESTUS1\TESTUS1\obj\Debug\TESTUS1.Properties.Resources.resources
+S:\TESTUS1\TESTUS1\obj\Debug\TESTUS1.csproj.GenerateResource.cache
+S:\TESTUS1\TESTUS1\obj\Debug\TESTUS1.csproj.CoreCompileInputs.cache
+S:\TESTUS1\TESTUS1\obj\Debug\TESTUS1.exe
+S:\TESTUS1\TESTUS1\obj\Debug\TESTUS1.pdb
